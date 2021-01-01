@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2021-01-01T12:11:46.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" version="14.0.1" etag="yqkvsY5VUKuoP1Eyt6h5" type="github"><diagram id="sX8PDF25bzgP0ymKK4ic">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-01T12:46:45.674Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="Vg9-b0cBfPtmLU2fcA_k" version="14.0.1" type="github" pages="2">
+  <diagram id="sX8PDF25bzgP0ymKK4ic" name="トップ">
+    <mxGraphModel dx="1577" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NtZH743Sf9rZ-gOF_3f3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="138.5" y="50" width="1380" height="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="NtZH743Sf9rZ-gOF_3f3-8" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="137" y="150" width="1383" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NtZH743Sf9rZ-gOF_3f3-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="NtZH743Sf9rZ-gOF_3f3-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="137" y="990" as="sourcePoint" />
+            <mxPoint x="297" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NtZH743Sf9rZ-gOF_3f3-17" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="980" width="1380" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NtZH743Sf9rZ-gOF_3f3-19" value="&lt;font style=&quot;font-size: 24px&quot;&gt;LOGO&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtZH743Sf9rZ-gOF_3f3-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;TOP&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#ffffff;align=center;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtZH743Sf9rZ-gOF_3f3-21" value="&lt;font style=&quot;font-size: 18px&quot;&gt;ABOUT&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#ffffff;align=center;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtZH743Sf9rZ-gOF_3f3-22" value="&lt;font style=&quot;font-size: 18px&quot;&gt;©️ジムトモ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1020" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NtZH743Sf9rZ-gOF_3f3-24" value="&lt;font style=&quot;font-size: 36px&quot;&gt;こんにちは！&lt;br&gt;ジムトモはジムでのコミュニケーションを目的とした&lt;br&gt;コミュニケーションWEBサイトです！&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327" y="280" width="1000" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NtZH743Sf9rZ-gOF_3f3-25" value="&lt;font style=&quot;font-size: 24px&quot;&gt;早速始める！！&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#ffffff;align=center;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="500" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NtZH743Sf9rZ-gOF_3f3-26" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ジムトモとは？&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#ffffff;align=center;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="600" width="440" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bLvAgA5qEwk-LL37ub39" name="アバウト">
+    <mxGraphModel dx="1351" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ftpEcNEryvSzcQoIp7-X-0" />
+        <mxCell id="ftpEcNEryvSzcQoIp7-X-1" parent="ftpEcNEryvSzcQoIp7-X-0" />
+        <mxCell id="VIwDnIqBXZ4P4yikGyFm-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="ftpEcNEryvSzcQoIp7-X-1">
+          <mxGeometry x="160" y="50" width="1380" height="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="dDT1iHOh3P4UcyybZQKl-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;LOGO&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="ftpEcNEryvSzcQoIp7-X-1">
+          <mxGeometry x="170" y="80" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dIF7iw-EWMnhFYqTY4e2-0" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fillColor=none;" vertex="1" parent="ftpEcNEryvSzcQoIp7-X-1">
+          <mxGeometry x="160" y="150" width="1360" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="H8I9omI7yn1xXHJn_vw3-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;TOP&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#ffffff;align=center;labelPosition=center;" vertex="1" parent="ftpEcNEryvSzcQoIp7-X-1">
+          <mxGeometry x="1090" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WR4Ig6IwshygOF9KwUJ-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;ABOUT&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#ffffff;align=center;labelPosition=center;" vertex="1" parent="ftpEcNEryvSzcQoIp7-X-1">
+          <mxGeometry x="1310" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zsgMGH2U2VKGGGK1tpQB-0" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fillColor=none;" vertex="1" parent="ftpEcNEryvSzcQoIp7-X-1">
+          <mxGeometry x="140" y="980" width="1380" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8jf5Wd_0UY1Y-AJaYyoA-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;©️ジムトモ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ftpEcNEryvSzcQoIp7-X-1">
+          <mxGeometry x="760" y="1020" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SekSxgpQAXPCXCAio9Cq-5" value="&lt;font style=&quot;font-size: 36px&quot;&gt;ジムトモとは？&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="ftpEcNEryvSzcQoIp7-X-1">
+          <mxGeometry x="722" y="210" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SekSxgpQAXPCXCAio9Cq-8" value="&lt;font style=&quot;font-size: 36px&quot;&gt;・ジムの仲間とコミュニケーションが取れるサイトです！&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ftpEcNEryvSzcQoIp7-X-1">
+          <mxGeometry x="362.5" y="340" width="975" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SekSxgpQAXPCXCAio9Cq-9" value="&lt;font style=&quot;font-size: 36px&quot;&gt;・検索して頂くか、無ければ自分でジムを登録できます！&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ftpEcNEryvSzcQoIp7-X-1">
+          <mxGeometry x="375" y="600" width="1005" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SekSxgpQAXPCXCAio9Cq-12" value="&lt;font style=&quot;font-size: 36px&quot;&gt;・仲間と高め会いながら　レッツパンプアップ！&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ftpEcNEryvSzcQoIp7-X-1">
+          <mxGeometry x="390" y="810" width="880" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SekSxgpQAXPCXCAio9Cq-13" value="&lt;font style=&quot;font-size: 36px&quot;&gt;どうやってジムを探すの？&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="ftpEcNEryvSzcQoIp7-X-1">
+          <mxGeometry x="665" y="500" width="330" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
