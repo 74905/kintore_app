@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T09:48:30.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="2ne3w_RIvTb3aVmPOxSA" version="14.0.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-01-02T10:16:07.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="n-wgHXN-4Odf2orfSqct" version="14.0.1" type="github" pages="10">
   <diagram id="sX8PDF25bzgP0ymKK4ic" name="トップ">
-    <mxGraphModel dx="1577" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bLvAgA5qEwk-LL37ub39" name="アバウト">
-    <mxGraphModel dx="1577" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ftpEcNEryvSzcQoIp7-X-0" />
         <mxCell id="ftpEcNEryvSzcQoIp7-X-1" parent="ftpEcNEryvSzcQoIp7-X-0" />
@@ -94,7 +94,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RGN--1uirbUa-3PSGwTJ" name="登録画面">
-    <mxGraphModel dx="1892" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JL3x1tFgeX2Gd9nTqzUn-0" />
         <mxCell id="JL3x1tFgeX2Gd9nTqzUn-1" parent="JL3x1tFgeX2Gd9nTqzUn-0" />
@@ -162,7 +162,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aNUv6X035ZnoPvwEYeFh" name="ログイン画面">
-    <mxGraphModel dx="1892" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_KaOR5W_jfGAxKg3fsh7-0" />
         <mxCell id="_KaOR5W_jfGAxKg3fsh7-1" parent="_KaOR5W_jfGAxKg3fsh7-0" />
@@ -221,7 +221,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uX-ZkvwKchYeVfN4PSU1" name="ジム一覧">
-    <mxGraphModel dx="1892" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ve-hvTTOscn3P7Vd1k1l-0" />
         <mxCell id="Ve-hvTTOscn3P7Vd1k1l-1" parent="Ve-hvTTOscn3P7Vd1k1l-0" />
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eFCf1Flm-d_z0XCg56ge" name="ジム作成">
-    <mxGraphModel dx="1892" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bN9DRR7ygXLC4ETw0tTN-0" />
         <mxCell id="bN9DRR7ygXLC4ETw0tTN-1" parent="bN9DRR7ygXLC4ETw0tTN-0" />
@@ -366,7 +366,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YKqgMy4wLX_MkJVojiup" name="ジム詳細">
-    <mxGraphModel dx="1892" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="S9Ml38-aAOQ-74PfCMLu-0" />
         <mxCell id="S9Ml38-aAOQ-74PfCMLu-1" parent="S9Ml38-aAOQ-74PfCMLu-0" />
@@ -410,7 +410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Au3m5pJ2xumtzIDFWD9T" name="チャットルーム">
-    <mxGraphModel dx="2365" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2365" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2zK_vwSWU1vNC4jKYJna-0" />
         <mxCell id="2zK_vwSWU1vNC4jKYJna-1" parent="2zK_vwSWU1vNC4jKYJna-0" />
@@ -457,7 +457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zL5eYmgKk5pcOP_QBlM2" name="マイページ">
-    <mxGraphModel dx="2365" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2365" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wCgrrmeHNJS4CBhITIkE-0" />
         <mxCell id="wCgrrmeHNJS4CBhITIkE-1" parent="wCgrrmeHNJS4CBhITIkE-0" />
@@ -510,7 +510,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y1sVudLVQEeaJ9z_4_oP" name="参加者一覧">
-    <mxGraphModel dx="2365" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2365" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="K-cMVyKMl1qZpLkuBjMT-0" />
         <mxCell id="K-cMVyKMl1qZpLkuBjMT-1" parent="K-cMVyKMl1qZpLkuBjMT-0" />
