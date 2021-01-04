@@ -19,7 +19,6 @@
 
 ## 設計書
 上記にdrew.ioでワイヤーフレームとER図記載
-https://docs.google.com/spreadsheets/d/1HWhUDxf9emKd5rFWvpa4O_fhevkcCcg9c6JBzVCTfhU/edit?usp=sharing　<=テーブル定義書
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1evrx30KDeSF0wvPO29zvD3VZFWR8if60YlJ8MWWlxyg/edit?usp=sharing
 
