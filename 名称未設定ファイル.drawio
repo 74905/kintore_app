@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-04T13:04:56.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="BEvKzz-nMG_AwnL5Rghp" version="14.0.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-01-04T13:48:35.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="sywK5WwlBEqCpJXmWBiP" version="14.0.1" type="github" pages="10">
   <diagram id="sX8PDF25bzgP0ymKK4ic" name="トップ">
     <mxGraphModel dx="1577" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,6 +309,12 @@
         <mxCell id="rW-hbCFJzmvnB4KcNEU5-8" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ジム説明&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ve-hvTTOscn3P7Vd1k1l-1">
           <mxGeometry x="1125" y="850" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="VvRq2TckwlFH9_XwNZiA-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;フォロワー一覧&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="Ve-hvTTOscn3P7Vd1k1l-1">
+          <mxGeometry x="900" y="110" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="24P6T_fNIyfdAyLzoj-5-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;フォロー一覧&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="Ve-hvTTOscn3P7Vd1k1l-1">
+          <mxGeometry x="755" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -318,7 +324,7 @@
         <mxCell id="bN9DRR7ygXLC4ETw0tTN-0" />
         <mxCell id="bN9DRR7ygXLC4ETw0tTN-1" parent="bN9DRR7ygXLC4ETw0tTN-0" />
         <mxCell id="d1fW3PGILB4OQkGAq-eu-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="bN9DRR7ygXLC4ETw0tTN-1">
-          <mxGeometry x="148.5" y="80" width="1380" height="1010" as="geometry" />
+          <mxGeometry x="148.5" y="70" width="1380" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="w__4c1YbGcrhswMUwZKD-0" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fillColor=none;" vertex="1" parent="bN9DRR7ygXLC4ETw0tTN-1">
           <mxGeometry x="148.5" y="1010" width="1380" height="10" as="geometry" />
@@ -361,6 +367,12 @@
         </mxCell>
         <mxCell id="C6jjZ9qPcaD_7FiLj0p6-5" value="&lt;font style=&quot;font-size: 24px&quot;&gt;登録&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;rounded=0;sketch=0;" vertex="1" parent="bN9DRR7ygXLC4ETw0tTN-1">
           <mxGeometry x="768.5" y="890" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pIUm5bWwRJmI54tTiga4-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;フォロー一覧&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="bN9DRR7ygXLC4ETw0tTN-1">
+          <mxGeometry x="755" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0-wzwNC53sg236U5OwLm-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;フォロワー一覧&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="bN9DRR7ygXLC4ETw0tTN-1">
+          <mxGeometry x="900" y="110" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -405,6 +417,12 @@
         </mxCell>
         <mxCell id="7hVsUEET5thuS5Xdefia-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;参加&lt;/font&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;する&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;sketch=0;" vertex="1" parent="S9Ml38-aAOQ-74PfCMLu-1">
           <mxGeometry x="720" y="900" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kxG5ajVm1KpBQYMyHbIl-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;フォロワー一覧&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="S9Ml38-aAOQ-74PfCMLu-1">
+          <mxGeometry x="900" y="110" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7gPrdWF9d34GSW5KMgg-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;フォロー一覧&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="S9Ml38-aAOQ-74PfCMLu-1">
+          <mxGeometry x="755" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -452,6 +470,12 @@
         </mxCell>
         <mxCell id="lQUtrttsh5UyW_UTb7Hc-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;コメント&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=0;sketch=0;" vertex="1" parent="2zK_vwSWU1vNC4jKYJna-1">
           <mxGeometry x="980" y="870" width="150" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9STnFc8XpwlHgemBDVu-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;フォロー一覧&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="2zK_vwSWU1vNC4jKYJna-1">
+          <mxGeometry x="755" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NNMLDoJtg5Zt_vfxMXq--0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;フォロワー一覧&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="2zK_vwSWU1vNC4jKYJna-1">
+          <mxGeometry x="910" y="110" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -506,13 +530,19 @@
         <mxCell id="2AcjHioqFZi91ltPIoV8-8" value="&lt;font style=&quot;font-size: 36px&quot;&gt;更新&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=0;sketch=0;" vertex="1" parent="wCgrrmeHNJS4CBhITIkE-1">
           <mxGeometry x="830" y="930" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WlCXszslU3TlwMxGKVp9-0" value="&lt;font style=&quot;font-size: 36px&quot;&gt;フォロー&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="wCgrrmeHNJS4CBhITIkE-1">
-          <mxGeometry x="600" y="930" width="200" height="60" as="geometry" />
+        <mxCell id="WlCXszslU3TlwMxGKVp9-0" value="&lt;font style=&quot;font-size: 36px&quot;&gt;フォローする&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="wCgrrmeHNJS4CBhITIkE-1">
+          <mxGeometry x="540" y="930" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HLpc5DFKqXuXH4h7XjT-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;フォロー一覧&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="wCgrrmeHNJS4CBhITIkE-1">
+          <mxGeometry x="755" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5HLpc5DFKqXuXH4h7XjT-1" value="&lt;span style=&quot;font-size: 18px&quot;&gt;フォロワー一覧&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="wCgrrmeHNJS4CBhITIkE-1">
+          <mxGeometry x="910" y="110" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Y1sVudLVQEeaJ9z_4_oP" name="参加者一覧">
+  <diagram id="Y1sVudLVQEeaJ9z_4_oP" name="参加者一覧/フォロー一覧">
     <mxGraphModel dx="2365" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="K-cMVyKMl1qZpLkuBjMT-0" />
@@ -541,11 +571,17 @@
         <mxCell id="8hTqskznQWkwFOPj0-id-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;©️ジムトモ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="K-cMVyKMl1qZpLkuBjMT-1">
           <mxGeometry x="790" y="1050" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8hTqskznQWkwFOPj0-id-1" value="参加者一覧" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="K-cMVyKMl1qZpLkuBjMT-1">
-          <mxGeometry x="260" y="270" width="190" height="40" as="geometry" />
+        <mxCell id="8hTqskznQWkwFOPj0-id-1" value="参加者一覧/フォロー一覧" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="K-cMVyKMl1qZpLkuBjMT-1">
+          <mxGeometry x="260" y="270" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8hTqskznQWkwFOPj0-id-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#ffffff;" vertex="1" parent="K-cMVyKMl1qZpLkuBjMT-1">
+        <mxCell id="8hTqskznQWkwFOPj0-id-2" value="&lt;font style=&quot;font-size: 48px&quot;&gt;各種一覧/各種詳細リンク&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#ffffff;" vertex="1" parent="K-cMVyKMl1qZpLkuBjMT-1">
           <mxGeometry x="320" y="350" width="970" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="DUnSvGjbSFd1F7aXnb7D-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;フォロワー一覧&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="K-cMVyKMl1qZpLkuBjMT-1">
+          <mxGeometry x="900" y="110" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cn7FI6NbF-9VDGwxOZh0-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;フォロー一覧&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="K-cMVyKMl1qZpLkuBjMT-1">
+          <mxGeometry x="755" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
