@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T10:17:01.350Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="oxw74lvZtRoAe4I5aWy1" version="14.0.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-01-04T13:04:56.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="BEvKzz-nMG_AwnL5Rghp" version="14.0.1" type="github" pages="10">
   <diagram id="sX8PDF25bzgP0ymKK4ic" name="トップ">
     <mxGraphModel dx="1577" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -394,7 +394,7 @@
         <mxCell id="dle5oxdhwTVdhl8zWKqW-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;ログアウト&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="S9Ml38-aAOQ-74PfCMLu-1">
           <mxGeometry x="1370" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7hVsUEET5thuS5Xdefia-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;sketch=0;" vertex="1" parent="S9Ml38-aAOQ-74PfCMLu-1">
+        <mxCell id="7hVsUEET5thuS5Xdefia-0" value="&lt;font style=&quot;font-size: 48px&quot;&gt;画像&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rounded=0;sketch=0;labelPosition=center;align=center;" vertex="1" parent="S9Ml38-aAOQ-74PfCMLu-1">
           <mxGeometry x="510" y="310" width="590" height="450" as="geometry" />
         </mxCell>
         <mxCell id="7hVsUEET5thuS5Xdefia-1" value="&lt;font style=&quot;font-size: 36px&quot;&gt;ジム名&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;sketch=0;" vertex="1" parent="S9Ml38-aAOQ-74PfCMLu-1">
@@ -456,7 +456,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zL5eYmgKk5pcOP_QBlM2" name="マイページ">
+  <diagram id="zL5eYmgKk5pcOP_QBlM2" name="マイページ/ユーザー詳細">
     <mxGraphModel dx="2365" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wCgrrmeHNJS4CBhITIkE-0" />
@@ -505,6 +505,9 @@
         </mxCell>
         <mxCell id="2AcjHioqFZi91ltPIoV8-8" value="&lt;font style=&quot;font-size: 36px&quot;&gt;更新&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;rounded=0;sketch=0;" vertex="1" parent="wCgrrmeHNJS4CBhITIkE-1">
           <mxGeometry x="830" y="930" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlCXszslU3TlwMxGKVp9-0" value="&lt;font style=&quot;font-size: 36px&quot;&gt;フォロー&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="wCgrrmeHNJS4CBhITIkE-1">
+          <mxGeometry x="600" y="930" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
